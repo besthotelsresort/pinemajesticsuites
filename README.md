@@ -1,0 +1,2 @@
+# pinemajesticsuites
+Static site: pinemajesticsuites
